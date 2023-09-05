@@ -10,7 +10,7 @@ Python
 
 ## Demo with sample vidio
 
-![App Screenshot](https://drive.google.com/file/d/1QECfbmSSB8siabD4YGDD0OTzXmKWdUDG/view?usp=sharing)
+![App Screenshot](https://github.com/AfitSantoso/imagetrashdetectionwithyolov5/blob/master/samplevidio.jpeg)
 
 ## Demo with RTSP by CCTV
-![App Screenshot](https://drive.google.com/file/d/1jNjwrQNgA4kyKq-7WpQP3BQ4QWBdyXME/view?usp=sharing)
+![App Screenshot](https://github.com/AfitSantoso/imagetrashdetectionwithyolov5/blob/master/realtime%20with%20RTSP%20cctv.jpeg)
